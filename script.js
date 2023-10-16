@@ -21,8 +21,8 @@ createProductForm.addEventListener("submit", (e)=>{
     let product = {
         name : name,
         desc : description,
-        image: imageUrl,
-        price :price
+        image : imageUrl,
+        price : price
     } 
 
     if(item){
