@@ -38,6 +38,20 @@ user = {
     jobTitle : "Dev"
 }
 
+let user2:{
+    firstName: string,
+    lastName: string,
+    age: number,
+    jobTitle: string
+}
+
+user2 = {
+    firstName:"Dan",
+    lastName: "kitheka",
+    age: 50,
+    jobTitle : "Dev"
+}
+
 
 // Array type
 let tasks:string[] = [];

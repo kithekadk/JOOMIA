@@ -24,6 +24,13 @@ user = {
     age: 50,
     jobTitle: "Dev"
 };
+let user2;
+user2 = {
+    firstName: "Dan",
+    lastName: "kitheka",
+    age: 50,
+    jobTitle: "Dev"
+};
 // Array type
 let tasks = [];
 tasks = ["eat", "code", "sleep"];
